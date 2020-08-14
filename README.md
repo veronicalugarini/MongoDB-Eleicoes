@@ -414,5 +414,3 @@ db.candidato.deleteOne(	{ nom_candidato : {$eq: "Antonio Virgilio" } } );
 ```
 
 ![7 drop_candidato](https://user-images.githubusercontent.com/64870434/90269007-4ffc0600-de2e-11ea-93b8-d3fe520f0ad7.png)
-
-
