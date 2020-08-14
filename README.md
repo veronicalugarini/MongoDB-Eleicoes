@@ -319,6 +319,7 @@ db.resultado.insertMany([
 ```
 > db.candidato.find({},{"nom_candidato": 1, "nom_cargo": 1});
 
+
 { "_id" : ObjectId("5f36a7ab2b58483f862a88b3"), "nom_candidato" : "Antonio Virgilio", "nom_cargo" : "prefeito" }
 { "_id" : ObjectId("5f36a8232b58483f862a88bc"), "nom_candidato" : "Patricia Alves", "nom_cargo" : "prefeito" }
 { "_id" : ObjectId("5f36a8232b58483f862a88bd"), "nom_candidato" : "Guilherme Arrais", "nom_cargo" : "prefeito" }
